@@ -1,0 +1,15 @@
+/Users/nikitazherko/Desktop/homework1/FirstTask/bin/Debug/net7.0/FirstTask
+/Users/nikitazherko/Desktop/homework1/FirstTask/bin/Debug/net7.0/FirstTask.deps.json
+/Users/nikitazherko/Desktop/homework1/FirstTask/bin/Debug/net7.0/FirstTask.runtimeconfig.json
+/Users/nikitazherko/Desktop/homework1/FirstTask/bin/Debug/net7.0/FirstTask.dll
+/Users/nikitazherko/Desktop/homework1/FirstTask/bin/Debug/net7.0/FirstTask.pdb
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.csproj.AssemblyReference.cache
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfoInputs.cache
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfo.cs
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.csproj.CoreCompileInputs.cache
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.dll
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/refint/FirstTask.dll
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.pdb
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/FirstTask.genruntimeconfig.cache
+/Users/nikitazherko/Desktop/homework1/FirstTask/obj/Debug/net7.0/ref/FirstTask.dll
